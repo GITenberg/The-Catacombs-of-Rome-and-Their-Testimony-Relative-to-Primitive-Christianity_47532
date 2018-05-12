@@ -1,4 +1,8 @@
 _repo: The-Catacombs-of-Rome-and-Their-Testimony-Relative-to-Primitive-Christianity_47532
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47532-h/images/cover.jpg
 creator:
   author:
     agent_name: Withrow, W. H. (William Henry)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2210'
     url: http://www.gutenberg.org/2009/agents/2210
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47532#The-Catacombs-of-Rome-and-Their-Testimony-Relative-to-Primitive-Christianity
 gutenberg_issued: '2014-12-04'
 gutenberg_type: Text
 identifiers:
